@@ -2,6 +2,8 @@ Request :
 - VPS or Raspberry Pi on Ubuntu
 - Telegram bot
 - @BotFather
+
+
 Sutup
 Download https://github.com/dexcoms/SAVEDC/blob/main/bot.py
 
